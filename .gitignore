@@ -1,0 +1,12 @@
+/.venv/
+/.idea/
+sql/data-dump.sql
+src/__pycache__/
+src/booking/images/
+src/booking/__pycache__/
+src/booking/booking/env.py
+src/booking/booking/__pycache__/
+src/booking/booking/spiders/__pycache__/
+src/booking/booking/services/__pycache__/
+src/booking/booking/old_models.py
+src/booking/booking/log
